@@ -1,0 +1,9 @@
+[submodule "shared"]
+	path = shared
+	url = https://github.com/litwin90/shared-test.git
+[submodule "api"]
+	path = api
+	url = https://github.com/litwin90/api
+[submodule "ui"]
+	path = ui
+	url = https://github.com/litwin90/ui-test
